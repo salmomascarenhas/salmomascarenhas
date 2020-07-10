@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[linkedin](https://github.com/salmomascarenhas/salmomascarenhas/blob/master/linkedin.png)
+![linkedin](https://github.com/salmomascarenhas/salmomascarenhas/blob/master/linkedin.png)
