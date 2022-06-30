@@ -1,29 +1,16 @@
-### Hi there 👋
+### 👋 Hi there, my name is Salmo Mascarenhas 😊.
 
-<!--
-**salmomascarenhas/salmomascarenhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 📫 How to reach me:
-<a href="https://www.linkedin.com/in/salmomascarenhas/" target="_blank">
-<img src="https://user-images.githubusercontent.com/37513299/87187628-dbc8c280-c2c3-11ea-9d4d-35d3df4eb011.png"/> 
-</a>
-
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=salmo.cruz@gmail.com&tf=1" target="_blank">
-<img src="https://user-images.githubusercontent.com/37513299/87187655-e84d1b00-c2c3-11ea-81c3-01ef30767656.png" /> 
-</a>
-
-<a href="https://instagram.com/salmomascarenhas" target="_blank">
-<img src="https://user-images.githubusercontent.com/37513299/87187653-e71bee00-c2c3-11ea-83ff-5f86db00ae15.png"/> 
-</a>
+<div align="center">
+  <a href="https://github.com/salmomascarenhas"></a>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salmomascarenhas&show_icons=true&theme=blue-green&include_all_commit=true&count_private=true&show_owner=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmomascarenhas&layout=compact&langs_count=8&theme=blue-green&hide=C#"/>
+</div>
+  
+### 📫 How to reach me: 
+  
+  <div> 
+    <a href = "mailto:salmo.cruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/salmomascarenhas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
