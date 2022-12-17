@@ -1,6 +1,8 @@
 ### 👋 Hi there, my name is Salmo Mascarenhas 😊. 
 
-I am passionate about learning, technology enthusiast and graduating in Computer Engineering from the Federal University of Ceará. I have learned about Back-end development and DevOps to become an expert in the technologies of this scope.
+I am passionate about learning, technology enthusiast and graduating in Computer Engineering from the Federal University of Ceará. I have learned about Back-end, DevOps and Blockain development. 
+
+Nice to meet you! ;)
 
 <div align="center">
   <a href="https://github.com/salmomascarenhas">
