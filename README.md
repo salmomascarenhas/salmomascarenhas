@@ -1,8 +1,8 @@
-### 👋 Olá, meu nome é Salmo Mascarenhas 😊. 
+### 👋 Hello, my name is Salmo Mascarenhas 😊.
 
-Sou apaixonado por aprender, entusiasta de tecnologia e graduando em Engenharia de Computação pela Universidade Federal do Ceará. Aqui você vai encontrar tudo o que eu crio e estudo, como desenvolvimento Back-end, Padrões de projetos e Arquitetura Limpa.
+I am passionate about learning, a technology enthusiast, and an undergraduate student in Computer Engineering at the Federal University of Ceará. Here you will find everything I create and study, such as Back-end development, Design Patterns, and Clean Architecture.
 
-Satisfação em conhecê-lo(a) ! ;)
+Nice to meet you! ;)
 
 <div align="center">
   <a href="https://github.com/salmomascarenhas">
@@ -13,7 +13,7 @@ Satisfação em conhecê-lo(a) ! ;)
 </a>
 </div>
   
-### 📫 Me encontre aqui: 
+### 📫 Find me here:
   
   <div> 
     <a href = "mailto:salmo.cruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
