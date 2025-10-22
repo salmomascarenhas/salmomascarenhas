@@ -27,10 +27,10 @@ Prazer em te conhecer! ;)
   </a>
 </div>
 
-### 🌱 O que estou aprendendo atualmente
+### 🌱 Holopin's board
 
-- **Go Lang:** Explorando as possibilidades de criar aplicações usando concorrência de forma simples.
-- **Domain-Driven Design (DDD):** Estudando como entender melhor problemas do mundo real e transformá-los em código.
+[![An image of @salmomascarenhas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salmomascarenhas)](https://holopin.io/@salmomascarenhas)
+###
 
 ### 📫 Me encontre aqui:
   
