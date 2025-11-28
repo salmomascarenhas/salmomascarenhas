@@ -19,13 +19,6 @@ Prazer em te conhecer! ;)
 - **Infra:** AWS (EC2, ECR, ECS E S3)
 - **Outras Ferramentas:** Docker, Git, CI/CD
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/salmomascarenhas">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=salmomascarenhas&theme=blue-green"/>
-  </a>
-</div>
 
 ### 🌱 Holopin's board
 
